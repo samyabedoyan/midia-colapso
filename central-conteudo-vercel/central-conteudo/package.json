@@ -1,0 +1,7 @@
+{
+  "name": "central-de-conteudo",
+  "private": true,
+  "type": "module",
+  "description": "Centrais de conteúdo da Colapso Lab com publicação e agendamento na Meta (Instagram e Facebook).",
+  "engines": { "node": ">=20" }
+}

@@ -1,0 +1,52 @@
+CENTRAL DE CONTEÚDO — PUBLICAÇÃO NA META (Vercel)
+
+PASTAS
+- central-conteudo/      -> projeto que vai para a Vercel (servidor + central da clínica)
+- clinica-controlador/   -> as 77 artes em JPG; vão para o repositório midia-colapso
+
+1) GITHUB
+   a. No repositório midia-colapso: Add file > Upload files > arraste a pasta clinica-controlador > Commit.
+   b. Crie um repositório NOVO chamado central-conteudo (pode ser privado) e suba o CONTEÚDO
+      da pasta central-conteudo (api, lib, public, package.json, vercel.json) > Commit.
+
+2) VERCEL
+   Add New > Project > Import do repositório central-conteudo > Deploy (sem mudar nada).
+   Anote o endereço gerado, ex.: https://central-conteudo.vercel.app
+
+3) UPSTASH (fila dos programados)
+   Create Database (Redis), região São Paulo. Copie UPSTASH_REDIS_REST_URL e UPSTASH_REDIS_REST_TOKEN.
+
+4) TOKEN PERMANENTE DA PÁGINA (PowerShell)
+   No painel do app CTD: Configurações do app > Básico > copie o ID do app e a Chave secreta.
+   NUNCA mande a chave secreta em print ou conversa.
+   No Explorer, gere um token com "Token do usuário" (com a clínica marcada) e copie.
+   a. curl.exe "https://graph.facebook.com/v26.0/oauth/access_token?grant_type=fb_exchange_token&client_id=ID_DO_APP&client_secret=CHAVE_SECRETA&fb_exchange_token=TOKEN_DO_EXPLORER"
+      -> devolve um access_token que dura 60 dias (TOKEN_LONGO)
+   b. curl.exe "https://graph.facebook.com/v26.0/me/accounts?fields=name,id,access_token,instagram_business_account&access_token=TOKEN_LONGO"
+      -> no bloco da clínica: id (ID da página), access_token (token da página, não vence)
+         e instagram_business_account.id (ID do Instagram)
+
+5) VARIÁVEIS NA VERCEL (Settings > Environment Variables)
+   CLIENTS = {"controlador":{"name":"Clínica ControlaDOR","key":"SENHA_DA_CENTRAL","pageId":"ID_DA_PAGINA","igId":"ID_DO_INSTAGRAM","token":"TOKEN_DA_PAGINA"}}
+   UPSTASH_REDIS_REST_URL   = (do passo 3)
+   UPSTASH_REDIS_REST_TOKEN = (do passo 3)
+   CRON_SECRET              = uma senha longa qualquer (só para o agendador)
+   Depois: Deployments > ... > Redeploy.
+
+6) AGENDADOR (Upstash > QStash > Schedules > Create)
+   Destination: https://SEU-ENDERECO.vercel.app/api/tick
+   Cron: */5 * * * *
+   Header: Authorization = Bearer CRON_SECRET (a mesma senha do passo 5)
+
+7) USAR
+   Abra https://SEU-ENDERECO.vercel.app/controlador > digite a SENHA_DA_CENTRAL > Conectar.
+   Cada card tem Instagram/Facebook, Programar (data e hora) e Postar agora (pede confirmação).
+   Programados saem com até 5 minutos de diferença e podem ser cancelados no card.
+
+NOVOS CLIENTES
+   Acrescente um bloco em CLIENTS (com senha própria) e uma pasta em public/<nome-do-cliente>.
+   Cada senha só enxerga e publica no próprio cliente.
+
+LIMITES
+   Imagem única e carrossel (2 a 10 JPG). Reels/vídeo ainda não.
+   Legenda até 2.200 caracteres. Instagram: até 50 posts por dia pela API.
