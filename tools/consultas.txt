@@ -1,0 +1,12 @@
+viagem=car road trip driving highway
+faxina=woman cleaning house mop
+cozinha=woman cooking kitchen
+ultrassom=ultrasound examination doctor
+compras=shopping bags woman mall
+natal=christmas dinner table family
+luzes=christmas lights tree
+fogos=fireworks new year
+consulta=doctor talking patient consultation
+sangue=blood sample tubes laboratory
+alongamento=woman stretching exercise
+caminhada=walking outdoors park people

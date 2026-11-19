@@ -1,0 +1,20 @@
+name: buscar-fotos
+on:
+  push:
+    paths: ["tools/consultas.txt"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  buscar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Baixar candidatas (CC0 / domínio público)
+        run: |
+          mapfile -t Q < <(grep -v '^\s*$' tools/consultas.txt)
+          python3 tools/buscar_fotos.py "${Q[@]}"
+      - name: Commit
+        run: |
+          git config user.name "colapso-bot"; git config user.email "bot@users.noreply.github.com"
+          git add stock && git commit -m "Fotos candidatas (uso livre)" && git push || echo "nada novo"
