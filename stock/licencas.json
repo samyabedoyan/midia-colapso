@@ -1,1 +1,450 @@
-{}
+{
+ "stock/candidatas/viagem/01.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/viagem/02.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1468818438311-4bab781ab9b8",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/viagem/03.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1504598318550-17eba1008a68",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/viagem/04.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1572401611152-cf63d874b019",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/viagem/05.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1615927107613-d59c2499ba05",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/viagem/06.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1499062918700-389fa905494e",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/viagem/07.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1541570213932-8cd806e3f8f6",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/viagem/08.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1578158335529-27b8d78cfea5",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/faxina/01.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1563453392212-326f5e854473",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/faxina/02.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1585421514284-efb74c2b69ba",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/faxina/03.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1758272422155-d898efd14f81",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/faxina/04.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1646980241033-cd7abda2ee88",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/faxina/05.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1628177142898-93e36e4e3a50",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/faxina/06.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1758273705438-2bb9e0eb21b7",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/faxina/07.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1647381518264-97ff1835026f",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/faxina/08.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1581578731548-c64695cc6952",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/cozinha/01.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/cozinha/02.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1556911261-6bd341186b2f",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/cozinha/03.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1773332589460-5a5d43c80f5b",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/cozinha/04.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1636647511729-6703539ba71f",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/cozinha/05.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1592837613828-4b65deb44f15",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/cozinha/06.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1773332585861-72cf1558a6fc",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/cozinha/07.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1556911073-52527ac43761",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/cozinha/08.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1503453776591-b4548af666a2",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/ultrassom/01.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1691933880096-4046bc9e2fa0",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/ultrassom/02.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1691933880037-ce9d151ab922",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/ultrassom/03.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1691935071222-c008a4ccc2ca",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/ultrassom/04.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1691935152546-3a9e05f4010b",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/ultrassom/05.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1691933880082-8ca234497bf4",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/ultrassom/06.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1691933880113-3c0d20a48451",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/ultrassom/07.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1691935052741-c8ce0a1ef543",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/ultrassom/08.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1589297598064-8a0c7d8f9909",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/compras/01.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1513884923967-4b182ef167ab",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/compras/02.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1608686207856-001b95cf60ca",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/compras/03.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1608679131470-431488cdaba2",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/compras/04.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1743807128901-130f02138a29",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/compras/05.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1663865619804-048699bb9363",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/compras/06.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1607083205410-7e6835ffd235",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/compras/07.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1763256340515-9a5603d4bc03",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/compras/08.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1721379564585-f487b96a0705",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/natal/01.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1601118964938-228a89955311",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/natal/02.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1578496780896-7081cc23c111",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/natal/03.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1670899460364-ebc917bac09a",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/natal/04.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1556025329-d40ee6fcaa94",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/natal/05.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1640331703778-9aac4d988e26",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/natal/06.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1605984591610-f9939dc688a9",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/natal/07.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1768464706260-e355a3d86803",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/natal/08.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1639696317686-f5350dbf2d95",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/luzes/01.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1543258103-a62bdc069871",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/luzes/02.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1612979168796-bcae1575b8c5",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/luzes/03.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1765154017431-24b6b0fc0d16",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/luzes/04.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1513297887119-d46091b24bfa",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/luzes/05.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1608132055071-aea9bf8e121e",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/luzes/06.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1765194493212-874b062ff31a",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/luzes/07.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1511731357620-952d10f3234c",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/luzes/08.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1481366574263-f643ed72bccc",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/fogos/01.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1560986752-2e31d9507413",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/fogos/02.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1549194400-06e6874c2fd1",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/fogos/03.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1777799034756-b07fdb93a5cf",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/fogos/04.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1498931299472-f7a63a5a1cfa",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/fogos/05.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1500212802521-de7d7426f496",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/fogos/06.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1783231754573-b5f6672c70ac",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/fogos/07.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1514876246314-d9a231ea21db",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/fogos/08.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1605941407951-fa62495beb54",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/consulta/01.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1631217868264-e5b90bb7e133",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/consulta/02.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1758691461990-03b49d969495",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/consulta/03.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1758273240360-76b908e7582a",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/consulta/04.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1659989693409-5adc97274bed",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/consulta/05.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1581056771107-24ca5f033842",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/consulta/06.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1758273241078-8eec353836be",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/consulta/07.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1584516150909-c43483ee7932",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/consulta/08.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1631217871099-88310a909a32",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/sangue/01.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1639772823849-6efbd173043c",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/sangue/02.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1606206591513-adbfbdd7a177",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/sangue/03.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1581594693702-fbdc51b2763b",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/sangue/04.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1599556147783-7edf67c327e0",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/sangue/05.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1579154341184-22069e4614d2",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/sangue/06.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1606206522398-de3bd05b1615",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/sangue/07.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1631557675464-77cf8f0d9426",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/sangue/08.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1656337426953-554b8e5b50f5",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/alongamento/01.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1562771379-eafdca7a02f8",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/alongamento/02.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1539794830467-1f1755804d13",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/alongamento/03.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1531403939386-c08a16cd7eef",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/alongamento/04.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1701826510629-051bb954fb8f",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/alongamento/05.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1621691211095-fe4b38f21788",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/alongamento/06.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1651786039465-d0580bb22ab7",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/alongamento/07.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1655712779546-a1c0ea613cd8",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/alongamento/08.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1568480119224-03b49bf7a8a9",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/caminhada/01.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1487956382158-bb926046304a",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/caminhada/02.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1519331379826-f10be5486c6f",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/caminhada/03.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1573155993874-d5d48af862ba",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/caminhada/04.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1627466603841-5b0bfa442951",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/caminhada/05.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1668009219418-4ece0d9e36c4",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/caminhada/06.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1529003532648-93cc0f57b7eb",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/caminhada/07.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1691605085147-646fd8059b6d",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/caminhada/08.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1560741282-a3ff4a507b4f",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/mala/01.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1502301197179-65228ab57f78",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/mala/02.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1522199710521-72d69614c702",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/mala/03.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1757865579170-8d64d9aab467",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/mala/04.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1670888664952-efff442ec0d2",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/mala/05.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1639598003276-8a70fcaaad6c",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/mala/06.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1779364815236-923ed8e77f5d",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/mala/07.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1534534573898-db5148bc8b0c",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/mala/08.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1648737967037-96967e9151b5",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/dor/01.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1618914241652-ff0a094b5a86",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/dor/02.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1539815208687-a0f05e15d601",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/dor/03.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1769029271190-36b22f5e6771",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/dor/04.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1598555763574-dca77e10427e",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/dor/05.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1615997393458-98aad1851521",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/dor/06.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1767972463825-96eaa9e0766b",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/dor/07.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1624716346720-6c96dfd07807",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ },
+ "stock/candidatas/dor/08.jpg": {
+  "imagem": "https://images.unsplash.com/photo-1638604813811-6f3c53deff9c",
+  "licenca": "Unsplash License (uso livre, comercial, sem atribuição obrigatória)"
+ }
+}
